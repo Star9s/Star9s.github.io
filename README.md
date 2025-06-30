@@ -1,5 +1,7 @@
 # 안녕하세요, [당신의 이름/닉네임]입니다! 👋
 
+![Kaggle Badge](https://kaggle-badge.herokuapp.com/Chan Byeol Jeon?theme=dark)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-blue?style=for-the-badge&logo=GoogleChrome)]([당신의 포트폴리오 웹사이트 주소 - 선택 사항])
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([당신의 LinkedIn 프로필 주소])
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white)]([당신의 Velog 주소 - 선택 사항])
